@@ -1,0 +1,27 @@
+# C/C++ build files
+build/
+*.o
+*.out
+*.exe
+*.a
+*.so
+*.swp
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+Makefile
+cmake_install.cmake
+compile_commands.json
+
+# Editor/OS clutter
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs or output
+*.log
+*.bin
+*.elf
+*.map
