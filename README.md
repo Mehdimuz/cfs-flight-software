@@ -25,8 +25,7 @@ cd build
 cmake ..
 make
 
-[200~
----
+
 
 ### ✅ 2. **Create `.gitignore`**
 ```bash
